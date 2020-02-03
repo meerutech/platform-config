@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: service-api
-        image: 526326026737.dkr.ecr.us-east-2.amazonaws.com/service-api:5f4f194
+        image: 526326026737.dkr.ecr.us-east-2.amazonaws.com/service-api:ec74869
         ports:
         - containerPort: 80
